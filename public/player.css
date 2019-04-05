@@ -1,0 +1,73 @@
+.qp-skin-qmery .qp-controlbar {
+    background: rgba(60, 68, 77, 0.8) !important;
+}
+
+.qp-skin-qmery .qp-controlbar {
+    height: 5.0em !important;
+    padding-top: 20px !important;
+}
+
+.qp-skin-qmery .qp-controlbar-center-group {
+    padding: 13px 20px 0px 20px !important;
+}
+
+.qp-skin-qmery .qp-progress {
+    background: #3498ba !important;
+}
+
+.qp-skin-qmery .qp-knob {
+    background: #3498ba !important;
+}
+
+.qp-skin-qmery .qp-slider-horizontal .qp-rail, .qp-skin-qmery .qp-slider-horizontal .qp-buffer, .qp-skin-qmery .qp-slider-horizontal .qp-progress {
+    border-radius: 5px !important;
+}
+
+.qp-button-color:hover, .qp-toggle, .qp-skin-qmery .qp-button-color:hover {
+    color: #3498ba !important;
+}
+
+.qp-skin-qmery .qp-icon-tooltip .qp-active-option {
+    background-color: #3498ba !important;
+}
+
+.qp-skin-qmery .qp-controlbar-left-group {
+    margin-top: 18px !important;
+    margin-left: 5px !important;
+}
+
+.qp-skin-qmery .qp-controlbar-right-group {
+    margin-top: 18px !important;
+    margin-right: 5px !important;
+}
+
+.qp-skin-qmery .qp-display-icon-container, .qp-skin-qmery:hover .qp-display-icon-container {
+    background-color: #3498ba !important;
+}
+
+.qplayer.qp-flag-rightclick-open .qp-rightclick {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+}
+
+.qp-controlbar .qp-overlay ul.qp-menu li {
+    font-family: Tahoma, tahoma !important;
+    font-size: 12px !important;
+}
+
+.qp-time-tip .qp-text {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+.qp-skin-qmery .qp-time-tip {
+    padding: 0px !important;
+    bottom: 20px !important;
+    border: solid 4px rgba(60, 68, 77, 0.8) !important;
+    border-radius: 0px !important;
+}
+
+.qp-skin-qmery .qp-time-tip > div {
+    opacity: 0.8 !important;
+}
